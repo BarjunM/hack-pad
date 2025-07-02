@@ -56,5 +56,3 @@ Pushed to github, Exported front/back pad renders and schematic. Waiting on part
 ![Front of pad](assets/frontpad.png)
 
 ![Back of pad](assets/backpad.png)
-
-**Total time spent: ~1.5h**
