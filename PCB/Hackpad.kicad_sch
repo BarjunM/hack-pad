@@ -1664,7 +1664,7 @@
 			)
 		)
 	)
-	(global_label "3.3V"
+	(global_label "GROUND"
 		(shape input)
 		(at 69.85 72.39 180)
 		(fields_autoplaced yes)
@@ -1676,7 +1676,7 @@
 		)
 		(uuid "58d3181b-df91-4938-861e-1b1d45f8d6d5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.7524 72.39 0)
+			(at 59.0633 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
