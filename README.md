@@ -20,11 +20,11 @@ As a long‑time Dungeon enjoyer and the permanent dungeon master (no thanks to 
 
 ---
 
-## 3D Model Screenshot
+## Key Orientation Screenshot
 
-The 3D‑printed case was modeled in Fusion360 and designed to resemble a magical tome.
+The 3D‑printed case was modeled in Onshape for a 3x3 matrix.
 
-![3D model render](assets/pcb_model.png)
+![3D model render](assets/matrix.png)
 
 ---
 
@@ -40,7 +40,7 @@ Here’s the schematic for all switches, OLED, and RGB integration:
 
 Designed using KiCad and printed through Hack Club’s parts inventory.
 
-![PCB design](assets/pcb.png)
+![PCB design](assets/pcb_model.png)
 
 ---
 

@@ -23,7 +23,7 @@ I sketched out my vision for the DM’s Grimoire today—9 spell‑like keys RGB
 
 In Onshape, I built the top plate: a 3×3 switch grid with cutout. Figured out switch spacing and screw hole placement. Struggled with making the screw hole stuff.
 
-![3D model render](assets/pcb_model.png)
+![Config](assets/matrix.png)
 
 **Total time spent: 1.5h**
 
@@ -32,6 +32,7 @@ In Onshape, I built the top plate: a 3×3 switch grid with cutout. Figured out s
 # June 29: Engraving + Size
 
 Fixed sizing of CAD, Adjusted the mount to be perfectly flush with the case surface + engraved my name
+![Back of pad](assets/backpad.png)
 
 **Total time spent: 1h**
 
@@ -43,7 +44,7 @@ Created schematic in KiCad: 9‑switch thing, data line for WS2812. Laid out PCB
 
 ![Schematic](assets/schematic.png)
 
-![PCB layout screenshot](assets/pcb.png)
+![PCB screenshot](assets/pcb_model.png)
 
 **Total time spent: 2.5h**
 
