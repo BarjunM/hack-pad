@@ -46,6 +46,8 @@ Created schematic in KiCad: 9‑switch thing, data line for WS2812. Laid out PCB
 
 ![PCB screenshot](assets/pcb_model.png)
 
+![PCB render](assets/render.png)
+
 **Total time spent: 2.5h**
 
 ---
