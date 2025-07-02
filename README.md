@@ -6,7 +6,10 @@ The **DM’s Grimoire** is a D&D **macropad** built for Dungeon Masters to contr
 
 ## Why I Made This
 
-As a long‑time Dungeon enjoyer and the permanent dungeon master (no thanks to my friends), I wanted something that was extremely functional — I wanted it to feel like an artifact from the game world itself. Instead of clicking around with a mouse, now I press a button and summon a thunderstorm… or a dragon roar.
+As a long‑time Dungeon enjoyer and the permanent dungeon master (no thanks to my friends), I wanted something that was extremely functional — I wanted it to feel like an artifact from the game world itself. Instead of clicking around with a mouse, now I press a button and summon a thunderstorm… or a dragon roar.|
+
+### Inspiration
+![Grimoire](assets/inspo.png)
 
 ---
 
