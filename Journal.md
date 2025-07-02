@@ -11,7 +11,7 @@ created_at: "2025-06-26"
 
 # June 26: Planning the Macropad
 
-I sketched out my vision for the DM’s Grimoire today—9 spell‑like keys, an OLED for lore prompts, RGB mood lights, and a Pi Zero 2 W brain. Brainstormed feature list and started rough layout sketches.
+I sketched out my vision for the DM’s Grimoire today—9 spell‑like keys RGB mood lights, and a Pi Zero 2 W brain. Brainstormed feature list and started rough layout sketches.
 
 ![initial sketch](assets/frontpad.png)
 
@@ -21,7 +21,7 @@ I sketched out my vision for the DM’s Grimoire today—9 spell‑like keys, an
 
 # June 28: CAD Top Plate Prototype
 
-In Onshape, I built the top plate: a 3×3 switch grid with an OLED cutout. Figured out switch spacing and screw hole placement. Struggled with making the screw hole stuff.
+In Onshape, I built the top plate: a 3×3 switch grid with cutout. Figured out switch spacing and screw hole placement. Struggled with making the screw hole stuff.
 
 ![3D model render](assets/pcb_model.png)
 
@@ -31,7 +31,7 @@ In Onshape, I built the top plate: a 3×3 switch grid with an OLED cutout. Figur
 
 # June 29: Engraving + Size
 
-Fixed sizing of CAD, Adjusted the OLED mount to be perfectly flush with the case surface + engraved my name
+Fixed sizing of CAD, Adjusted the mount to be perfectly flush with the case surface + engraved my name
 
 **Total time spent: 1h**
 
@@ -39,7 +39,7 @@ Fixed sizing of CAD, Adjusted the OLED mount to be perfectly flush with the case
 
 # June 30: PCB Schematic & Layout
 
-Created schematic in KiCad: 9‑switch thing, I2C for OLED, data line for WS2812. Laid out PCB footprint and aligned header pins. Realized I messed up the routing completly. learned how to route thanks to youtube, exported properly 
+Created schematic in KiCad: 9‑switch thing, data line for WS2812. Laid out PCB footprint and aligned header pins. Realized I messed up the routing completly. learned how to route thanks to youtube, exported properly 
 
 ![Schematic](assets/schematic.png)
 
