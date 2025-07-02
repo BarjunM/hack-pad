@@ -1,6 +1,6 @@
 # The DM’s Grimoire
 
-The **DM’s Grimoire** is a D&D **macropad** built for Dungeon Masters to control their campaigns. With 9 mechanical keys, an OLED display, RGB lighting, and a custom spellbook‑style enclosure, this device becomes a physical “grimoire” of power for any tabletop roleplaying game.
+The **DM’s Grimoire** is a D&D **macropad** built for Dungeon Masters to control their campaigns. With 9 mechanical keys, RGB lighting, and a custom spellbook‑style enclosure, this device becomes a physical “grimoire” of power for any tabletop roleplaying game.
 
 ---
 
@@ -33,7 +33,7 @@ The 3D‑printed case was modeled in Fusion360 and designed to resemble a magica
 
 ## Wiring Diagram / Schematic
 
-Here’s the schematic for all switches, OLED, and RGB integration:
+Here’s the schematic for all switches, and RGB integration:
 
 ![Schematic](assets/schematic.png)
 
@@ -54,7 +54,6 @@ Designed using KiCad and printed through Hack Club’s parts inventory.
 9x DSA Keycaps
 4x M3x5x4 Heatset inserts
 4x M3x16mm SHCS Bolts
-1x 0.91" 128x32 OLED Display
 1x EC11 Rotary Encoder
 1x XIAO RP2040
 1x Case (2 printed parts)
