@@ -46,19 +46,16 @@ Designed using KiCad and printed through Hack Club’s parts inventory.
 ![PCB design](assets/pcb.png)
 
 ---
+## Firmware; I used KMK firmware to code the macropad. Some of the code is placeholder code for now...
+
 
 ## BOM
-
-| Item                                                | Price    | Link / Source                  |
-|-----------------------------------------------------|---------:|--------------------------------|
-| OLED Screen 5.5” (1920×1080 AMOLED, USB‑C driver)   | Free     | Owned                          |
-| Raspberry Pi Zero 2 W                               | $15 USD  | [PiShop.ca](https://www.pishop.ca/) |
-| 9× Mechanical Key Switches                          | HC       | From Approved Parts            |
-| 9× Keycaps                                          | Free     | Old keyboards / 3D Printed     |
-| 3D Printed Case & Mounts                            | Free     | Custom design + printed        |
-| Wires, Header Pins, Screws                          | Free     | Owned                          |
-| Custom PCB                                          | HC       | From Approved Parts            |
-
-**_Total Estimated Cost:_** HC covered + ~\$15 for Pi Zero 2 W
-
-Also available as [BOM.csv](./BOM.csv)
+9x Cherry MX Switches
+9x DSA Keycaps
+4x M3x5x4 Heatset inserts
+4x M3x16mm SHCS Bolts
+1x 0.91" 128x32 OLED Display
+1x EC11 Rotary Encoder
+1x XIAO RP2040
+1x Case (2 printed parts)
+1x Custom PCB
