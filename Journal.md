@@ -11,7 +11,7 @@ created_at: "2025-06-26"
 
 # June 26: Planning the Macropad
 
-I sketched out my vision for the DM’s Grimoire today—9 spell‑like keys RGB mood lights, and a Pi Zero 2 W brain. Brainstormed feature list and started rough layout sketches.
+I sketched out my vision for the DM’s Grimoire today—9 spell‑like keys RGB mood lights, and a Pi Zero 2 W brain. Brainstormed feature list and started rough layout sketches. Also watched a bunch of tutorials on how to do this. 
 
 ![initial sketch](assets/frontpad.png)
 
