@@ -46,6 +46,17 @@ Designed using KiCad and printed through Hack Club’s parts inventory.
 ---
 
 ## BOM
+## Assembly & Build Photos
+
+Soldering, population, and final enclosure fit.
+
+![Soldering session](assets/soldering_pcb.jpg)
+![Populated PCB](assets/assembly_pad.jpg)
+![Final assembly in case](assets/final_hackpad.jpg)
+
+---
+
+## BOM
 9x Cherry MX Switches
 9x Blank DSA Keycaps
 4x M3x5x4 Heatset inserts
