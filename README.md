@@ -43,9 +43,9 @@ Designed using KiCad and printed through Hack Club’s parts inventory.
 ![PCB design](assets/pcb_model.png)
 
 ![PCB render](assets/render.png)
+
 ---
 
-## BOM
 ## Assembly & Build Photos
 
 Soldering, population, and final enclosure fit.
